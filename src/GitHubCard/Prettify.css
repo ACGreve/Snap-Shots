@@ -1,0 +1,10 @@
+.profilePic{
+    border-radius: 50%;
+}
+
+.funFont{
+    font-family: Garamond, serif;
+    font-size: large;
+    font-weight: bold;
+    color: darkred;
+}

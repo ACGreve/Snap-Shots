@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="App pt-5"
+>
+  <div
+    className="row"
+  >
+    <div
+      className="col"
+      style={
+        Object {
+          "display": "flex",
+          "justifyContent": "center",
+        }
+      }
+    >
+      <div
+        className="card"
+      >
+        <div
+          className="card"
+        >
+          <img
+            className="card-img profilePic"
+            src="https://media.licdn.com/dms/image/C4D03AQEs8kxPBHd1dQ/profile-displayphoto-shrink_800_800/0/1583458223122?e=1698278400&v=beta&t=96rv0K43gkV746juFaHQcSCfxMFCCoBHOka0xlaNHN4"
+            style={
+              Object {
+                "height": "20em",
+              }
+            }
+          />
+          <div
+            className="funFont card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              ACGreve
+            </div>
+            <p
+              className="card-text"
+            >
+              Manufacturing Engineer with 2 years of experience in the automotive field. Currently broadening my vocational capacity through a software development bootcamp through NC State University, with the intent of delving into the field of software engineering.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
